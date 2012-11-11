@@ -1,0 +1,10 @@
+s is a simple sketch used to test an AT Keyboard with an Arduino and a display.
+
+Actually it simply ask for your name and then print it on the screen.
+
+To be used it needs the PS2KeyboarLibrary. Available here:
+
+http://www.pjrc.com/teensy/td_libs_PS2Keyboard.html
+
+Once downloaded the package PS2Keyboard.zip unpack it on your sketchbook folder.
+
