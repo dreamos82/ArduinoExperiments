@@ -1,1 +1,4 @@
 This repository will contain all my experiments with the arduino board.
+
+Actually the projects uploaded are: 
+KeyboardLCD - A simply test of arduino + LCD HDHD44780 Display + At (or ps/2) keyboard
